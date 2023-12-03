@@ -6,7 +6,7 @@
   <developer_name>Vencord</developer_name>
   <url type="homepage">https://github.com/Vencord/Vesktop</url>
   <url type="bugtracker">https://github.com/Vencord/Vesktop/issues</url>
-  <metadata_license>GPL-3.0</metadata_license>
+  <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0</project_license>
   <categories>
     <category>InstantMessaging</category>
