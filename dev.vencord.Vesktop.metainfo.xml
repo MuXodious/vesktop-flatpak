@@ -25,6 +25,21 @@
   
   <releases>
     
+  <release version="0.4.4" date="2023-12-02">
+   <description>
+    <ul>
+    
+    
+     <li>Improve venmic system compatibility by @Curve in #230</li>
+     <li>Update steamdeck controller layout by @AAGaming00 in #236</li>
+     <li>Feat: Add option to disable smooth scrolling by @ZirixCZ in #255</li>
+     <li>Unblur shiggy in splash screen by @viacoro in #221</li>
+     <li>Update electron & arrpc @D3SOX in #258MacOS: fix positioning of traffic lights by @pupbrained in #185</li>
+    
+     </ul>
+   </description>
+  </release>
+    
   <release version="0.4.3" date="2023-11-01">
    <description>
     <ul>
